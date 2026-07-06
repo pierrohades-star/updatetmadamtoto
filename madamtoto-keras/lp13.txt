@@ -131,7 +131,7 @@
 <span class='link__content'>
  <div class="header-mini__logo" bis_skin_checked="1">
 <a href="##$$">
-    <img alt="LOGO MADAMTOTO" src="https://cungkokahasikkali.pages.dev/togel-banner/logomadampng.png" style="height:40px; width:150px; display: flex; justify-content: flex-start;margin-left: -60px;">
+    <img alt="LOGO MADAMTOTO" src="https://madampasitnaik.pages.dev/logo-gif-madamtoto/logo-gif-madamtoto.gif" style="height:40px; width:150px; display: flex; justify-content: flex-start;margin-left: -60px;">
 </a>
 </div>
 </span>
