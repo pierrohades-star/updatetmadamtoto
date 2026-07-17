@@ -1181,7 +1181,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 
     <tr>
       <td>Minimal Betting</td>
-      <td style="font-weight:800;">Rp 100 Perak</td>
+      <td style="font-weight:800;">Rp 1 Perak</td>
     </tr>
 
     <tr>
